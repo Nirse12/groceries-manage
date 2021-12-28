@@ -1,0 +1,6 @@
+{
+    "items": {
+        "eggs": 5
+    },
+    "total_price": 25
+}

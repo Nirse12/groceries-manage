@@ -1,0 +1,98 @@
+[
+    {
+        "amount": 1,
+        "itemPrice": [
+            5
+        ],
+        "items": {
+            "egg": 3
+        },
+        "time": "2021-12-19 14:44:48.641936"
+    },
+    {
+        "amount": 2,
+        "itemPrice": [
+            5,
+            5
+        ],
+        "items": {
+            "egg": 3,
+            "halav": 5
+        },
+        "time": "2021-12-19 14:44:51.679826"
+    },
+    {
+        "amount": 1,
+        "itemPrice": [
+            15
+        ],
+        "items": {
+            "halav": 3
+        },
+        "time": "2021-12-19 14:55:16.974564",
+        "total_price": 15
+    },
+    {
+        "amount": 2,
+        "itemPrice": [
+            15,
+            25
+        ],
+        "items": {
+            "egg": 5,
+            "halav": 3
+        },
+        "time": "2021-12-19 14:55:20.846523",
+        "total_price": 40
+    },
+    {
+        "amount": 1,
+        "itemPrice": [
+            100
+        ],
+        "items": {
+            "egg": 20
+        },
+        "time": "2021-12-19 16:11:15.988328",
+        "total_price": 100
+    },
+    {
+        "amount": 2,
+        "itemPrice": [
+            100,
+            25
+        ],
+        "items": {
+            "egg": 20,
+            "halav": 5
+        },
+        "time": "2021-12-19 16:11:22.117066",
+        "total_price": 125
+    },
+    {
+        "amount": 3,
+        "itemPrice": [
+            100,
+            25,
+            20
+        ],
+        "items": {
+            "chicken": 4,
+            "egg": 20,
+            "halav": 5
+        },
+        "time": "2021-12-19 16:11:31.076496",
+        "total_price": 145
+    },
+    {
+        "amount": 1,
+        "itemPrice": [
+            25
+        ],
+        "items": {
+            "eggs": 5
+        },
+        "time": "2021-12-19 16:19:24.479781",
+        "total_price": 25
+    }
+]
